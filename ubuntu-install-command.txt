@@ -1,0 +1,1 @@
+sudo bash ubuntu-autoinstall-generator.sh -a -u user-data.example -k -s ubuntu-20.04.3-desktop-amd64.iso -d ubuntu-autoinstall.iso
